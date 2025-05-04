@@ -1,0 +1,14 @@
+C:\C#\projeto\AMST5_EtecInst\bin\Debug\net8.0\AMST5_EtecInst.exe
+C:\C#\projeto\AMST5_EtecInst\bin\Debug\net8.0\AMST5_EtecInst.deps.json
+C:\C#\projeto\AMST5_EtecInst\bin\Debug\net8.0\AMST5_EtecInst.runtimeconfig.json
+C:\C#\projeto\AMST5_EtecInst\bin\Debug\net8.0\AMST5_EtecInst.dll
+C:\C#\projeto\AMST5_EtecInst\bin\Debug\net8.0\AMST5_EtecInst.pdb
+C:\C#\projeto\AMST5_EtecInst\obj\Debug\net8.0\AMST5_EtecInst.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\projeto\AMST5_EtecInst\obj\Debug\net8.0\AMST5_EtecInst.AssemblyInfoInputs.cache
+C:\C#\projeto\AMST5_EtecInst\obj\Debug\net8.0\AMST5_EtecInst.AssemblyInfo.cs
+C:\C#\projeto\AMST5_EtecInst\obj\Debug\net8.0\AMST5_EtecInst.csproj.CoreCompileInputs.cache
+C:\C#\projeto\AMST5_EtecInst\obj\Debug\net8.0\AMST5_EtecInst.dll
+C:\C#\projeto\AMST5_EtecInst\obj\Debug\net8.0\refint\AMST5_EtecInst.dll
+C:\C#\projeto\AMST5_EtecInst\obj\Debug\net8.0\AMST5_EtecInst.pdb
+C:\C#\projeto\AMST5_EtecInst\obj\Debug\net8.0\AMST5_EtecInst.genruntimeconfig.cache
+C:\C#\projeto\AMST5_EtecInst\obj\Debug\net8.0\ref\AMST5_EtecInst.dll

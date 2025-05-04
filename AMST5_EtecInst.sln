@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMST5_EtecInst", "AMST5_EtecInst.csproj", "{A284B29B-7D5B-BFE0-19CE-811FAF7BCA71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A284B29B-7D5B-BFE0-19CE-811FAF7BCA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A284B29B-7D5B-BFE0-19CE-811FAF7BCA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A284B29B-7D5B-BFE0-19CE-811FAF7BCA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A284B29B-7D5B-BFE0-19CE-811FAF7BCA71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40F32485-C261-4DF9-B2F0-176BCBCA5434}
+	EndGlobalSection
+EndGlobal
