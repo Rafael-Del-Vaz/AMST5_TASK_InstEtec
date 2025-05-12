@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AMST5_EtecInst")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf1ab58920b1b1fa53c22bd82d74316fcb3d3cab")]
 [assembly: System.Reflection.AssemblyProductAttribute("AMST5_EtecInst")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AMST5_EtecInst")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

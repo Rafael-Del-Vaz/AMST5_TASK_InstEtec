@@ -7,8 +7,8 @@ int Ano = int.Parse(Console.ReadLine());
 Console.WriteLine("Digite a quantidade de horas que você tem");
 int Horas = int.Parse(Console.ReadLine());
 
-Instituicao AMS = new EtecAms(Nome, Ano, Horas, 200);
-Instituicao TECNICO = new EtecTecnico(Nome, Ano, Horas);
+EtecAms AMS = new EtecAms(Nome, Ano, Horas, 200);
+EtecTecnico TECNICO = new EtecTecnico(Nome, Ano, Horas);
 
 Console.WriteLine("Escolha uma Etec (TECNICO ou AMS)");
 string Etec = (Console.ReadLine());
