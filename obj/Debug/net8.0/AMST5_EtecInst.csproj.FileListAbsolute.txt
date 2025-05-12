@@ -12,3 +12,4 @@ C:\C#\projeto\AMST5_EtecInst\obj\Debug\net8.0\refint\AMST5_EtecInst.dll
 C:\C#\projeto\AMST5_EtecInst\obj\Debug\net8.0\AMST5_EtecInst.pdb
 C:\C#\projeto\AMST5_EtecInst\obj\Debug\net8.0\AMST5_EtecInst.genruntimeconfig.cache
 C:\C#\projeto\AMST5_EtecInst\obj\Debug\net8.0\ref\AMST5_EtecInst.dll
+C:\C#\projeto\AMST5_EtecInst\obj\Debug\net8.0\AMST5_EtecInst.sourcelink.json
